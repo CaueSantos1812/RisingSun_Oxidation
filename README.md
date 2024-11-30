@@ -27,4 +27,7 @@ O projeto utiliza:
 
 ## Como Utilizar:
   1. Utilize o diretório `Arqv` para poder acessar os arquivos `.xdi` da base de dados, ou então adicione os arquivos nesse diretório
-  2. Siga o workflow desenvolvido e mostrado 
+  2. Siga o workflow desenvolvido e mostrado no jupyter `Exemplo_Calcula_Delta_E.ipynb`
+  3. Depois de calcular o shift da energia para cada `.xdi` desejado, calcular o estado de oxidação dessas amostras, e alimentar esses dados na regressão linear do mesmo notebook
+## Observações:
+1. As funções usadas pelos notebooks estão presentes no arquivo `oxidation.py` e na biblioteca *Cruzeiro do Sul Utils (CZDS_utils)*
