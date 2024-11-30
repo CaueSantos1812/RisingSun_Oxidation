@@ -26,5 +26,5 @@ O projeto utiliza:
 ---
 
 ## Como Utilizar:
-  1. Utilize o diretório ´Arqv´ para poder acessar os arquivos ´.xdi´ da base de dados, ou então adicione os arquivos nesse diretório
+  1. Utilize o diretório `Arqv` para poder acessar os arquivos `.xdi` da base de dados, ou então adicione os arquivos nesse diretório
   2. Siga o workflow desenvolvido e mostrado 
