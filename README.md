@@ -22,7 +22,6 @@ O projeto utiliza:
 - **Jupyter Notebooks**: Interatividade e visualização dos resultados.  
 - **HPC da Ilum**: Execução de cálculos em larga escala.  
 - **Base de Dados Cruzeiro do Sul Utils**: Repositório de espectros XDI utilizado para análise.
-- 
 ---
 
 ## Como Utilizar:
